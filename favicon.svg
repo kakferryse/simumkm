@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0_linear_logo_favicon" x1="5.5" y1="26.5" x2="26.5" y2="5.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0047AB"/> <stop offset="1" stop-color="#00C897"/> </linearGradient>
+  </defs>
+  <path d="M5 26.5V15.5C5 14.3954 5.89543 13.5 7 13.5H11V26.5H5Z" fill="url(#paint0_linear_logo_favicon)"/>
+  <path d="M13 26.5V9.5C13 8.39543 13.8954 7.5 15 7.5H19V26.5H13Z" fill="url(#paint0_linear_logo_favicon)"/>
+  <path d="M21 26.5V5.5C21 4.39543 21.8954 3.5 23 3.5H27V26.5H21Z" fill="url(#paint0_linear_logo_favicon)"/>
+  <path d="M5 26.5H27V28.5C27 29.6046 26.1046 30.5 25 30.5H7C5.89543 30.5 5 29.6046 5 28.5V26.5Z" fill="url(#paint0_linear_logo_favicon)" fill-opacity="0.8"/>
+</svg>
